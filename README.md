@@ -5,6 +5,8 @@ This repository is made to practise or simulate git merge, git push and other gi
 
 ## Tasks : 
 
+* Task#0<br>
+Check the output wheather it matches with the output given here. If your output doesen't match, please correct your program.<br>
 * Task#1<br>
 Update code style for better consistency. <br>
 * Task#2<br>
