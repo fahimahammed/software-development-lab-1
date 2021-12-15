@@ -32,3 +32,20 @@ Add more comments and makes more naming improvements. <br>
 <br>
 
 Your should create git branch for every step with the name of the step, work on that particular step, commit the code with appropriate commit message and finally merge your branch to the master. For better understanding, write the commit message same as the task on each steps. And check every  time you change something, you didn't break anything by going through Run #1 to Run #6 and it matches the commit message.
+
+
+<br>
+<br>
+
+**Run #1**: $java StudenList a <br>
+Loading data ... <br>
+Student1 <br>
+Student2 <br>
+Student3 <br>
+Student4 <br>
+Data Loaded.<br>
+
+**Run #2**: $java StudentList r <br>
+Loading data ... <br>
+Student3 <br>
+Data Loaded. <br>
