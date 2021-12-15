@@ -37,7 +37,7 @@ Your should create git branch for every step with the name of the step, work on 
 <br>
 <br>
 
-**Run #1**: $```java StudenList a``` <br>
+**Run #1**: $```bash java StudenList a``` <br>
 Loading data ... <br>
 Student1 <br>
 Student2 <br>
