@@ -49,3 +49,28 @@ Data Loaded.<br>
 Loading data ... <br>
 Student3 <br>
 Data Loaded. <br>
+
+**Run #3**: $java StudentList r <br>
+Loading data ... <br>
+Student1 <br>
+Data Loaded. <br>
+
+**Run #4**: $java StudentList c <br>
+Loading data ... <br>
+2 word(s) found <br>
+Data Loaded. <br>
+
+**Run #5**: $java StudentList ?Student1 <br>
+Loading data ... <br>
+We found it! <br>
+Data Loaded. <br>
+
+**Run #6**: $java StudentList +Another <br>
+Loading data ... <br>
+Data Loaded. <br><br>
+
+**File Contents (After running)**
+Student1, Student2, Student3, Student4 ,Another
+List last updated on 2021-12-12 2:10:58 PM
+
+
