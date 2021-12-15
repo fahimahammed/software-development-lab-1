@@ -37,7 +37,7 @@ Your should create git branch for every step with the name of the step, work on 
 <br>
 <br>
 
-**Run #1**: $java StudenList a <br>
+**Run #1**: $```java StudenList a``` <br>
 Loading data ... <br>
 Student1 <br>
 Student2 <br>
@@ -45,27 +45,27 @@ Student3 <br>
 Student4 <br>
 Data Loaded.<br>
 
-**Run #2**: $java StudentList r <br>
+**Run #2**: $```java StudentList r``` <br>
 Loading data ... <br>
 Student3 <br>
 Data Loaded. <br>
 
-**Run #3**: $java StudentList r <br>
+**Run #3**: $```java StudentList r``` <br>
 Loading data ... <br>
 Student1 <br>
 Data Loaded. <br>
 
-**Run #4**: $java StudentList c <br>
+**Run #4**: $```java StudentList c``` <br>
 Loading data ... <br>
 2 word(s) found <br>
 Data Loaded. <br>
 
-**Run #5**: $java StudentList ?Student1 <br>
+**Run #5**: $```java StudentList ?Student1``` <br>
 Loading data ... <br>
 We found it! <br>
 Data Loaded. <br>
 
-**Run #6**: $java StudentList +Another <br>
+**Run #6**: $```java StudentList +Another``` <br>
 Loading data ... <br>
 Data Loaded. <br><br>
 
